@@ -8,7 +8,7 @@ import tensorflow as tf
 
 from ..utils import utils
 from tensorflow.python.framework import ops
-import tensorflow.python.keras as keras
+import keras
 from tensorflow.python.keras.models import load_model
 from tensorflow.python.keras.layers import advanced_activations, Activation
 
